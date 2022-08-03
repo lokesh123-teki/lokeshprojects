@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T11:46:33 IST" name="Suite" finished-at="2022-07-21T11:46:33 IST" duration-ms="147">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T11:46:33 IST" name="Test" finished-at="2022-07-21T11:46:33 IST" duration-ms="147">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method signature="Androidchecking()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@2805d709]" started-at="2022-07-21T11:46:33 IST" name="Androidchecking" finished-at="2022-07-21T11:46:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Androidchecking -->
+        <test-method signature="IOSchecking2()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@2805d709]" started-at="2022-07-21T11:46:33 IST" name="IOSchecking2" finished-at="2022-07-21T11:46:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSchecking2 -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.RestApiTest">
+        <test-method signature="cloud()[pri:0, instance:qaclickacademy.Mavenjava.RestApiTest@6e0f5f7f]" started-at="2022-07-21T11:46:33 IST" name="cloud" finished-at="2022-07-21T11:46:33 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloud -->
+        <test-method signature="server()[pri:0, instance:qaclickacademy.Mavenjava.RestApiTest@6e0f5f7f]" started-at="2022-07-21T11:46:33 IST" name="server" finished-at="2022-07-21T11:46:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- server -->
+      </class> <!-- qaclickacademy.Mavenjava.RestApiTest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method signature="webchecking()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@4fb3ee4e]" started-at="2022-07-21T11:46:33 IST" name="webchecking" finished-at="2022-07-21T11:46:33 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webchecking -->
+        <test-method signature="webchecking2()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@4fb3ee4e]" started-at="2022-07-21T11:46:33 IST" name="webchecking2" finished-at="2022-07-21T11:46:33 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webchecking2 -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
